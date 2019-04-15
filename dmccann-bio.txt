@@ -1,0 +1,6 @@
+Name : David McCann
+Role : MAX Student
+DOB : April 4, 1991
+Start : April 15, 2019
+
+Junior software developer currently enrolled at MAX Technical.
